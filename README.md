@@ -59,19 +59,19 @@ business-analytics-project/
 ## 📸 Project Visual Outputs
 
 ### Data Overview
-![Data Overview](images/Screenshot%202026-02-16%20154703.png)
+![Data Overview](outputs/Screenshot%202026-02-16%20154703.png)
 
 ### Distribution Plot
-![Distribution](images/Screenshot%202026-02-16%20154714.png)
+![Distribution](outputs/Screenshot%202026-02-16%20154714.png)
 
 ### Category Analysis
-![Category](images/Screenshot%202026-02-16%20154727.png)
+![Category](outputs/Screenshot%202026-02-16%20154727.png)
 
 ### Duration Analysis
-![Duration](images/Screenshot%202026-02-16%20154738.png)
+![Duration](outputs/Screenshot%202026-02-16%20154738.png)
 
 ### Correlation Heatmap
-![Correlation](images/Screenshot%202026-02-16%20154749.png)
+![Correlation](outputs/Screenshot%202026-02-16%20154749.png)
 
 ---
 
