@@ -56,6 +56,16 @@ business-analytics-project/
 
 ```
 ---
+```
+project/
+ ├── outputs/
+ │   ├── Screenshot 2026-02-16 154703.png
+ │   ├── Screenshot 2026-02-16 154714.png
+ │   ├── Screenshot 2026-02-16 154727.png
+ │   ├── Screenshot 2026-02-16 154738.png
+ │   ├── Screenshot 2026-02-16 154749.png
+ └── README.md
+```
 ## 📸 Project Visual Outputs
 
 ### Data Overview
